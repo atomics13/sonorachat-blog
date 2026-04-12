@@ -1,0 +1,15 @@
+---
+layout: default
+permalink: /sitemap/
+---
+<div class="sitemap">
+  <h1>Índice de Artículos del Blog</h1>
+  <ul>
+  {{ "{%" }} for post in site.posts {{ "%}" }}
+    <li>
+      <a href="{{ post.url | absolute_url }}">{{ post.title }}</a>
+      <span class="post-meta">({{ post.date | date: "%B %d, %Y" }})</span>
+    </li>
+  {{ "{%" }} endfor {{ "%}" }}
+  </ul>
+</div>
