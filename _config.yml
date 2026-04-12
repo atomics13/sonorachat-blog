@@ -11,3 +11,4 @@ plugins:
 
 # Posts Configuration
 permalink: /:title/
+theme: minima
