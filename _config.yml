@@ -1,0 +1,13 @@
+title: SonoraChat Blog
+description: Automated articles about technology and AI
+baseurl: ""
+url: "https://atomics13.github.io"
+github_username: atomics13
+
+# SEO Configuration
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Posts Configuration
+permalink: /:title/
