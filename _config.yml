@@ -1,14 +1,25 @@
 title: SonoraChat Blog
-description: Automated articles about technology and AI
-baseurl: ""
+description: Automated articles about music, streaming, technology and AI
+baseurl: "/sonorachat-blog"
 url: "https://atomics13.github.io"
 github_username: atomics13
 
-# SEO Configuration
+# Theme
+theme: minima
+
+# SEO Plugins
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-feed
 
 # Posts Configuration
 permalink: /:title/
-theme: minima
+show_excerpts: true
+excerpt_separator: "<!--more-->"
+
+# Minima Theme Settings
+minima:
+  date_format: "%B %d, %Y"
+  social_links:
+    github: atomics13
