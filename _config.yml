@@ -14,7 +14,7 @@ plugins:
   - jekyll-feed
 
 # Posts Configuration
-permalink: /blog/:title/
+permalink: /:year/:month/:day/:title/
 show_excerpts: true
 excerpt_separator: "<!--more-->"
 
