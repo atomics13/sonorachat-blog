@@ -14,7 +14,7 @@ Platforms are finally emerging that prioritize this direct connection over algor
 ### The Broken Model: Why "Streaming Pennies" Aren't Enough
 
 The traditional streaming economy operates on a pro-rata model: all subscription fees go into a giant pot, which is then divided by total streams. A viral, label-backed hit siphons a disproportionate share, while dedicated indie artists with smaller, passionate audiences get lost. It's a system that values scale over connection, and it forces musicians into a relentless "pay-to-play" promotion cycle just to be heard.
-
+<!--more--> 
 This is where the promise of direct support shines. When a fan buys you a coffee or contributes via Ko-fi, **100% of that support goes directly to you**. There's no corporate intermediary taking 30%, no waiting 90 days for a payout. It's immediate, human, and meaningful.
 
 ### How Direct Support Empowers the Independent Artist
