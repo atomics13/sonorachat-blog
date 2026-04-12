@@ -14,7 +14,7 @@ For independent musicians, the dream isn't just to go viral—it's to build a su
 This is the core of **Sonora.Chat's ultimate goal: for artists to earn a monthly income by sharing their music and to reward their activity—regardless of their follower count, streams, likes, or any other metrics that simply don't matter to us.**
 
 We're building a corner of the internet where the act of creating, sharing, and engaging is the true currency. Let's explore how.
-
+<!--more--> 
 ## Why Traditional Metrics Fail Artists
 
 The dominant platforms have created a system where visibility is a prize won by viral hits or deep pockets. This "pay-to-play" or "algorithm-to-play" model means that consistent, dedicated artists who release music regularly and connect deeply with a smaller audience are often drowned out. Your monthly earnings become a rollercoaster tied to unpredictable trends, not a reflection of your work.
