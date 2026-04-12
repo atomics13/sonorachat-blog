@@ -5,7 +5,7 @@ url: "https://atomics13.github.io"
 github_username: atomics13
 
 # Theme
-remote_theme: jekyll/minima
+theme: minima
 
 # SEO Plugins
 plugins:
